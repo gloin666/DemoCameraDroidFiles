@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoCameraDroidFiles</string>
+    <string name="tv_title" >title</string>
+    <string name="tv_put">Put text</string>
+    <string name="btn_read">Read file</string>
+    <string name="btn_write">Write to file</string>
+</resources>
